@@ -1,0 +1,19 @@
+{
+  "pois": [
+    {
+      "name": "武康大楼周边咖啡",
+      "address": "上海市徐汇区武康路周边",
+      "price_per_person": 48,
+      "rating": 4.7,
+      "review_count": 1260,
+      "rating_source": "dianping_authorized",
+      "image_url": "https://example.com/authorized/meituan-or-dianping-photo.jpg",
+      "photo_source": "meituan_authorized",
+      "platform_url": "https://example.com/authorized-shop-url",
+      "merchant_id": "authorized-shop-001",
+      "merchant_source": "meituan_authorized",
+      "deal_summary": "双人下午茶套餐 88 元",
+      "description": "授权平台数据中的门店简介。"
+    }
+  ]
+}
